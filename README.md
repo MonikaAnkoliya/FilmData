@@ -1,6 +1,9 @@
 # FilmData
 Getting Started with [React-Native](https://reactnative.dev/), [React-Navigation](https://reactnavigation.org/), [React-Redux](https://react-redux.js.org/)
 
+[![Watch the video](thumbnail.png)](./example.mov)
+
+
 ## Getting Started
 
 ### Dependencies:
