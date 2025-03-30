@@ -1,5 +1,12 @@
 # FilmData
 Getting Started with [React-Native](https://reactnative.dev/), [React-Navigation](https://reactnavigation.org/), [React-Redux](https://react-redux.js.org/)
+Example:
+
+<video width="600" controls>
+  <source src="example.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## Getting Started
 
